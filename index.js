@@ -18,4 +18,4 @@ const config = {
   singleAttributePerLine: false,
 };
 
-module.export = config;
+module.exports = config;
