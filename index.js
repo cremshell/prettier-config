@@ -4,18 +4,18 @@ const config = {
   useTabs: false,
   semi: true,
   singleQuote: true,
-  quoteProps: 'as-needed',
+  quoteProps: "as-needed",
   jsxSingleQuote: false,
-  trailingComma: 'all',
+  trailingComma: "all",
   bracketSpacing: true,
-  objectWrap: 'collapse',
+  objectWrap: "collapse",
   bracketSameLine: false,
-  arrowParens: 'always',
+  arrowParens: "always",
   insertPragma: false,
-  htmlWhitespaceSensitivity: 'css',
-  endOfLine: 'lf',
-  embeddedLanguageFormatting: 'auto',
+  htmlWhitespaceSensitivity: "css",
+  endOfLine: "lf",
+  embeddedLanguageFormatting: "auto",
   singleAttributePerLine: false,
 };
 
-export default config;
+module.export = config;
